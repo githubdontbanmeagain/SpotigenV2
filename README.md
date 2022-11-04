@@ -1,7 +1,8 @@
 <div align="center">
 
-<a href="https://ethone.cc">
-  <img src="https://developer.spotify.com/assets/branding-guidelines/playing-views.svg"  />
+  ## Youtube video:
+<a href="https://youtu.be/QeiF7oBODW0">
+  <img src="https://media.discordapp.net/attachments/1027663182912815185/1038161734831177860/image.png?width=1202&height=676"  />
 </a>
   
 # Features of SpotiGenV2
